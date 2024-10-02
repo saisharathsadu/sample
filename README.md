@@ -1,4 +1,7 @@
 Sample Git Project
+
+The followign tutorial based on the following blog - https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
+
 Created the readme.md using touch README.md
 Followed by cmd - git init
 
