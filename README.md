@@ -35,3 +35,14 @@ git remote -v
 
 git push -u origin master 
 ----> pushes changes to origin
+
+git diff 
+----> To show the files changes not yet staged
+
+Revert back to the last committed version to the Git Repo:
+Now you can choose to revert back to the last committed version by entering:
+git checkout .
+
+OR for a specific file
+
+git checkout -- file_name
